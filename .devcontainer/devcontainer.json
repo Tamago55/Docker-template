@@ -1,0 +1,13 @@
+{
+	"name": "MediapipeTestt",
+	"build": {
+        "dockerfile": "../Dockerfile" 
+    },
+	"extensions": [
+        "ms-azuretools.vscode-docker",
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+    ]
+
+
+}
